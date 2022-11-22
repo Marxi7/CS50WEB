@@ -1,4 +1,4 @@
-# CS50 Wev Programming with Python & Javascript
+# CS50 Web Programming with Python & Javascript
 Here, you will find all of my projects completed for CS50's Web programming with Python and Javascript by C50.
 <hr>
 
