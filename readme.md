@@ -82,4 +82,4 @@ $ python manage.py runserver
 
 
 ### More information about CS50 course and projects here:
-More information on the whole course [Here]('https://cs50.harvard.edu/web/2020')
+More information on the course [Here](https://cs50.harvard.edu/web/2020)
