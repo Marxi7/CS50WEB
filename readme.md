@@ -6,32 +6,32 @@ Here, you will find all of my projects completed for CS50's Web programming with
 
 #### Project 0 - Search:
 Front-end site made with HTML and CSS to replicate Google Search, Google Image Search, and Google Advanced Search.<br>
-Instructions [Here]('https://cs50.harvard.edu/web/2020/projects/0/search/')<br>
+Instructions [Here](https://cs50.harvard.edu/web/2020/projects/0/search/)<br>
 Demo video:  <https://youtu.be/lmyRzcm066w>
 
 #### Project 1 - Wiki:
 Mini Clone of Wikipedia with a markdown system implemented.<br>
-Instructions [Here]('https://cs50.harvard.edu/web/2020/projects/1/wiki/')<br>
+Instructions [Here](https://cs50.harvard.edu/web/2020/projects/1/wiki/)<br>
 Demo video:  <https://youtu.be/4OTYymc4-gA>
 
 #### Project 2 - Commerce:
 Auction site that will allow users to post, edit auction listings, place bids on listings, comment on those listings, and add listings they like to their “watchlist.”<br>
-Instructions [Here]('https://cs50.harvard.edu/web/2020/projects/2/commerce/')<br>
+Instructions [Here](https://cs50.harvard.edu/web/2020/projects/2/commerce/)<br>
 Demo video:  <https://youtu.be/pkFldBAgcPY>
 
 #### Project 3 - Mail:
 Front-end website for an email client that makes API calls to send and receive emails.<br>
-Instructions [Here]('https://cs50.harvard.edu/web/2020/projects/3/mail/')<br>
+Instructions [Here](https://cs50.harvard.edu/web/2020/projects/3/mail/)<br>
 Demo video:  <https://youtu.be/XurnCD9iY8w>
 
 #### Project 4 - Network:
 Twitter-like social network website for making posts and following users.<br>
-Instructions [Here]('https://cs50.harvard.edu/web/2020/projects/0/search/')<br>
+Instructions [Here](https://cs50.harvard.edu/web/2020/projects/0/search/)<br>
 Demo video:  <https://youtu.be/Y4eNd6p5k48>
 
 #### Project 5 - CAPSTONE (final project):
 My final project. You'll find a readme document inside the Captsone folder that explains the projects and how to run it.<br>
-Instructions [Here]('https://cs50.harvard.edu/web/2020/projects/final/capstone/')<br> 
+Instructions [Here](https://cs50.harvard.edu/web/2020/projects/final/capstone/)<br> 
 Demo video:  <https://youtu.be/_JwRIB4dgoU>
 
 
